@@ -12,6 +12,12 @@ public class CalcTest{
                 Calc c = new Calc();
 		                assertEquals(30, c.sub(10, 20));
 				
+	}   
+	public void testMul() {
+	                Calc c = new Calc();
+                              assertEquals(200, c.sub(10, 20));
+
 	}
+
 }
 
