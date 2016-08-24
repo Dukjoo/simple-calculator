@@ -8,6 +8,9 @@ public class Calc{
 	public int mul(int x, int y) { //mul method, readme 1, 2
 			return x*y;
 	}
+	public int inc(int x ) {
+		return x+1; //
+	}
 
 
 }
